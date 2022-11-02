@@ -1,0 +1,9 @@
+you'll need two terminal windows
+
+once in the flask api directory, 
+run `python main.py` to start the flask api
+
+in the second terminal open the sentiment-front directory
+run `npm start` to get the react app running
+
+* Caution you'll need flask and npm to be properly installed *
