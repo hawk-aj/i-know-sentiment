@@ -1,5 +1,5 @@
 <h1>Basic Sentimental Analysis Bot</h1>
-<h4 style="text-align:right">Python, Flask, React</h4>
+<h4 align=right>Python, Flask, React</h4>
 <br>
 <p>This is a proof of concept implementation for utilizing a pretrained bert sentimental analysis model with user friendly react front end
 </p>
